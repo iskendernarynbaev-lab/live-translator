@@ -1,0 +1,14 @@
+README.md
+  h_d55b1378e25042 1-165
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "50711aac689e0ae2231205c3aaaa4e77a450cfad",
+  "prompts": {},
+  "humans": {
+    "h_d55b1378e25042": {
+      "author": "iskendernarynbaev-lab <iskender.narynbaev@gmail.com>"
+    }
+  }
+}
